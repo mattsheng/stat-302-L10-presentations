@@ -1,0 +1,8 @@
+---
+title: "L13 Template"
+subtitle: "[Your GitHub repo link](https://github.com)"
+author: "YOUR NAME"
+format: 
+  revealjs:
+    embed-resources: true
+---
